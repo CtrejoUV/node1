@@ -1,0 +1,20 @@
+{
+    "name": "node1",
+    "version": "1.0.0",
+    "description": "Practice one of node.  url: https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CtrejoUV/node1.git"
+    },
+    "author": "Carlos Trejo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CtrejoUV/node1/issues"
+    },
+    "homepage": "https://github.com/CtrejoUV/node1#readme"
+}
